@@ -1,0 +1,16 @@
+keycode 55 = v V doublelowquotemark singlelowquotemark doublelowquotemark singlelowquotemark
+keycode 56 = b B leftdoublequotemark leftsinglequotemark leftdoublequotemark leftsinglequotemark
+keycode 58 = m M rightdoublequotemark rightsinglequotemark rightdoublequotemark rightsinglequotemark
+keycode 60 = period colon ellipsis division ellipsis division
+keycode 61 = minus underscore endash abovedot endash abovedot
+keycode 39 = s S section U017F section U017F
+keysym ssharp = ssharp question backslash U1E9E backslash U1E9E
+keycode 19 = 0 equal 0 equal braceright U2620 braceright
+keycode 18 = 9 parenright 9 parenright bracketright U2639 bracketright
+keycode 17 = 8 parenleft 8 parenleft bracketleft U263A bracketleft
+keycode 16 = 7 slash 7 slash braceleft U2612 braceleft
+keycode 14 = 5 percent 5 percent onehalf U2611 onehalf
+keycode 15 = 6 ampersand 6 ampersand notsign U2610 notsign
+keycode 13 = 4 dollar 4 dollar onequarter U2116 onequarter currency 4 dollar onequarter currency
+
+
